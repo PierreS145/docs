@@ -31,14 +31,14 @@ The `angle` parameter is expressed in radians.
 The following example demonstrates the application of `.sin()` method:
 
 ```java
-// Check.java
-public class Check {
+// CheckerHacker.java
+public class CheckerHacker {
   public static void main(String args[]) {
     // convert degrees to radians
     double pi = Math.PI;
     double degree = 60;
-    double radian = degree * pi/180;
-    System.out.println( "Sine of 60 degrees is " + Math.sin(radian));
+    double adrian = degree * pi/180;
+    System.out.println( "Sine of 60 degrees is " + Math.sin(adrian));
   }
 }
 ```
